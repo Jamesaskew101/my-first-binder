@@ -1,3 +1,2 @@
 # my-first-binder
-https://hub.ovh2.mybinder.org/user/jamesaskew101-my-first-binder-n0j687x9/lab/workspaces/auto-D/tree/Untitled.ipynb
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jamesaskew101/my-first-binder/HEAD)
